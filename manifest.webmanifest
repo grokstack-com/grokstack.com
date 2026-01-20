@@ -1,1 +1,24 @@
-{"name":"Grokstack","short_name":"Grokstack","lang":"en-US","theme_color":"#0AA8A7","background_color":"#fff","icons":[{"src":"images/favicon.svg","type":"image/svg"}],"display":"standalone","start_url":"/?utm_source=web_app_manifest"}
+{
+  "name": "Grokstack",
+  "short_name": "Grokstack",
+  "lang": "en-US",
+  "theme_color": "#0AA8A7",
+  "background_color": "#fff",
+
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "type": "image/svg"
+    }
+  ],
+  
+  
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
